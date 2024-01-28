@@ -16,7 +16,8 @@ Explore a curated collection of resources, tools, research papers, and innovativ
 Submit PRs with other OSS examples or tutorials! 
 
 ## Tools
+- [Utilities](https://github.com/coinbase/onchainki)
+- [Coinbase Frame Example](https://github.com/coinbase/build-onchain-app)
 - [Vercel OpenGraph Image Generation](https://vercel.com/docs/functions/edge-functions/og-image-generation)
 - [Vercel OG Image API Reference](https://vercel.com/docs/functions/edge-functions/og-image-generation/og-image-api)
 - [Satori](https://github.com/vercel/satori)
-
