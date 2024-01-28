@@ -10,6 +10,13 @@ Explore a curated collection of resources, tools, research papers, and innovativ
 ## OSS Frames
 
 - [FC Polls](https://github.com/farcasterxyz/fc-polls)
-- [EventCaster](https://github.com/mko4444/eventcaster-frame)
+- [Event Caster](https://github.com/mko4444/eventcaster-frame)
+- [Small Brain](https://github.com/smallbraingames/small-brain-frame)
 
 Submit PRs with other OSS examples or tutorials! 
+
+## Tools
+- [Vercel OpenGraph Image Generation](https://vercel.com/docs/functions/edge-functions/og-image-generation)
+- [Vercel OG Image API Reference](https://vercel.com/docs/functions/edge-functions/og-image-generation/og-image-api)
+- [Satori](https://github.com/vercel/satori)
+
