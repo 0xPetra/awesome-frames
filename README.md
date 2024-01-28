@@ -12,6 +12,7 @@ Explore a curated collection of resources, tools, research papers, and innovativ
 - [FC Polls](https://github.com/farcasterxyz/fc-polls)
 - [Event Caster](https://github.com/mko4444/eventcaster-frame)
 - [Small Brain](https://github.com/smallbraingames/small-brain-frame)
+- [One Click, One NFT Minted](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame)
 
 Submit PRs with other OSS examples or tutorials! 
 
