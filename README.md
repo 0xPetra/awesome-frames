@@ -6,7 +6,7 @@ Submit PRs with other OSS examples or tutorials! 🚀
 
 ## Farcaster Resources
 
-- [Warpcast Docs]([https://github.com/ingonyama-zk/ingopedia](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5)https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5)
+- [Warpcast Docs](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5)
 
 
 ## OSS Frames
