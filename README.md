@@ -15,6 +15,8 @@ Submit PRs with other OSS examples or tutorials! 🚀
 - [Event Caster](https://github.com/mko4444/eventcaster-frame)
 - [Small Brain](https://github.com/smallbraingames/small-brain-frame)
 - [One Click, One NFT Minted](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame)
+- [Simplest Frames](https://github.com/depatchedmode/simplest-frame)
+
 
 
 ## Tools
