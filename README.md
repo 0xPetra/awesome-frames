@@ -1,4 +1,4 @@
-# awesome-frames 🖼️
+# awesome-frames 🔲
 
 Explore a curated collection of resources, tools, research papers, and innovative applications centered around Farcaster Frames. Our repository is a collaborative space, eagerly welcoming contributions and ideas. Should you wish to propose enhancements or share your insights, we invite you to open an issue or initiate a pull request.
 
@@ -16,6 +16,7 @@ Submit PRs with other OSS examples or tutorials! 🚀
 - [Small Brain](https://github.com/smallbraingames/small-brain-frame)
 - [One Click, One NFT Minted](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame)
 - [Simplest Frames](https://github.com/depatchedmode/simplest-frame)
+- [Nethria Text Based Mini Game Frame] (https://gist.github.com/0xdeployer/3b9652e511485a0a088be708da6635b0)
 
 
 
