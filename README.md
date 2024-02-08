@@ -16,7 +16,7 @@ Submit PRs with other OSS examples or tutorials! 🚀
 - [Small Brain](https://github.com/smallbraingames/small-brain-frame)
 - [One Click, One NFT Minted](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame)
 - [Simplest Frames](https://github.com/depatchedmode/simplest-frame)
-- [Nethria Text Based Mini Game Frame] (https://gist.github.com/0xdeployer/3b9652e511485a0a088be708da6635b0)
+- [Nethria Text Based Mini Game Frame](https://gist.github.com/0xdeployer/3b9652e511485a0a088be708da6635b0)
 
 
 
